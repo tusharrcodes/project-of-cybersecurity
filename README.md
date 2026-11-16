@@ -16,7 +16,7 @@
 
 ## 🚀 Live Demo
 
-**[▶️ Open the Honeypot Dashboard](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/)**
+**[▶️ Open the Honeypot Dashboard](https://tusharrcodes.github.io/project-of-cybersecurity/)**
 
 > Replace the link above with your GitHub Pages URL after enabling GitHub Pages.
 
@@ -335,7 +335,7 @@ If this project helped you learn something about cybersecurity or web developmen
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Tushar Bajpai & Aviral**
 
 Cybersecurity • Web Development • Security Monitoring
 
