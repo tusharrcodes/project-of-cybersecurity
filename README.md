@@ -18,7 +18,6 @@
 
 **[▶️ Open the Honeypot Dashboard](https://tusharrcodes.github.io/project-of-cybersecurity/)**
 
-> Replace the link above with your GitHub Pages URL after enabling GitHub Pages.
 
 ---
 
